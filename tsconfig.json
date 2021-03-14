@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		"module": "esnext",
+		"lib": ["esnext"]
+	},
+	"types": ["tab-groups.d.ts"]
+}
