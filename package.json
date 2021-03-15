@@ -1,8 +1,8 @@
 {
 	"name": "group-tab-number",
   "fullName": "Group Tab Number for Chrome",
-	"version": "1.0.0",
-	"description": "Displays the numbers of tabs inside a Group Tabs of Chrome.",
+	"version": "1.0.1",
+	"description": "Displays the amount of tabs inside Group Tabs directly in the Group Tab's name.",
 	"author": "Simon Wicki <simon@wicki.io> (https://twitter.com/zwacky)",
 	"scripts": {
 		"clean": "rimraf build",
